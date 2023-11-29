@@ -1,0 +1,739 @@
+.header{
+
+ width:100% ;
+
+height: 90px;
+ 
+background-color: rgb(7, 6, 6);
+display: flex;
+position: fixed;
+padding-left:200px ;
+padding-top: 5px;
+padding-right: 200px;
+top: 0px;
+z-index: 4000;
+}
+
+*{
+
+margin: 0px;
+
+}
+
+.header li{
+
+display: inline;
+padding-right: 100px;
+
+
+}
+
+
+.khj{
+font-size: 45px;
+color: rebeccapurple;
+}
+.kio{
+
+color: rgb(196, 196, 196);
+
+
+}
+body{
+
+/* background-color: rgb(255, 255, 255); */
+font-family: 'Pacifico', cursive;
+
+
+
+}
+
+.noil a {
+font-size: 25px;
+text-decoration: none;
+
+
+}
+
+.noil{
+
+padding-left: 300px;
+padding-top:30px ;
+
+}
+.noil a:hover{
+
+
+
+
+
+    color: rgb(192, 192, 192);
+}
+
+.box1{
+padding-top: 200px;
+justify-content: space-evenly;
+    display: flex;
+}
+
+
+.klk{
+
+margin-top: 50px;
+font-size: 35px;
+
+}
+
+
+.kik{
+
+border-radius: 20px;
+
+
+
+}
+
+
+.yui{
+
+font-size: 20px;
+
+
+}
+
+
+.kjj{
+margin-top: 100px;
+width:100% ;
+height:200px ;
+background-color: rgb(250, 250, 250);
+/* margin: auto; */
+padding-top: 50px;
+text-align: center;
+
+}
+
+
+.kii{
+
+    rotate: 300deg;
+    font-size: 30px;
+}
+
+
+.kip{
+
+
+
+    font-size: 30px;
+
+}
+
+.kiy {
+font-size: 30px;
+
+rotate: 30deg;
+
+
+
+}
+
+
+.kii:hover{
+
+
+color: aqua;
+
+}
+
+.kiy:hover{
+
+
+    color: aqua;
+    
+    }
+
+    .kip:hover{
+
+
+        color: aqua;
+        
+        }
+
+.ui{
+
+
+width: 100%;
+height: 450px;
+background-color: rgb(46, 46, 46);
+margin: auto;
+display: flex;
+justify-content: space-evenly;
+padding-top: 100px; ;
+padding-bottom: 50px;
+}
+.ooo4{
+
+    /* margin-top: 50px; */
+    font-size: 35px;
+color: blueviolet;
+/* margin-left: 40px;
+     */
+}
+
+.tyu{
+
+  padding-top: 10px;
+    font-size: 20px;
+color: aliceblue;
+/* margin-right: 500px; */
+}
+.poi{
+
+
+    border-radius: 20px;
+
+
+}
+
+.blbla{
+
+
+border-radius:20px ;
+
+
+
+}
+.akaza{
+
+width: 700px;
+height: 600px;
+background-color: rgb(7, 241, 191);
+
+
+
+
+
+
+}
+
+
+
+
+
+.kjji{
+    /* margin-top: 100px; */
+    width:100% ;
+    height:200px ;
+    background-color: rgb(189, 231, 205);
+    /* margin: auto; */
+    padding-top: 30px;
+    text-align: center;
+    /* margin-top: 30px; */
+    }
+
+
+.kil{
+
+    rotate: 300deg;
+    font-size: 30px;
+
+
+}
+
+
+.bil{
+
+    font-size: 30px;
+
+
+}
+
+
+.nil{
+font-size: 30px;
+
+rotate: 30deg;
+
+    
+}
+
+
+
+.um{
+
+
+    width: 100%;
+    height: 700px;
+    background-color: rgb(14, 13, 13);
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 100px; ;
+    padding-bottom: 50px;
+    color: aliceblue;
+    
+    }
+
+.kiu{
+padding-top: 150px;
+
+
+
+
+
+}
+
+
+.ji7{
+
+margin-top: 10px;
+background-color: black;
+border-radius: 20px;
+color: aliceblue;
+}
+
+.uo{
+
+    width: 100%;
+    height: 700px;
+    background-color: rgb(92, 92, 92);
+    margin: auto;
+    padding-top: 50px; ;
+    padding-bottom: 50px;
+    color: rgb(255, 252, 252);
+    text-align: center;
+
+
+
+}
+
+.t9{
+
+
+opacity: 0.3;
+    width: 100%;
+    height: 400px;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 100px; ;
+    padding-bottom: 50px;
+}
+
+
+.t2,.t1,.t3{
+
+
+width: 350px;
+
+
+
+}
+
+.t2 h3{
+
+color: blueviolet;
+
+}
+
+.t1 h3{
+
+
+    color: blueviolet;
+}
+
+.t3 h3{
+color: blueviolet;
+
+}
+
+
+.f1{
+
+    color: aquamarine;
+font-size: 20px;
+
+}
+
+.f2{
+
+
+    color: aquamarine;
+font-size: 20px;
+}
+.f3{
+
+color: aquamarine;
+font-size: 20px;
+}
+
+.kiu h1{
+
+color: blueviolet;
+
+
+}
+.up{
+
+
+
+width: 100%;
+    height: 350px;
+    background-color: rgb(14, 13, 13);
+    margin: auto;
+    /* padding-top: 20px; ; */
+    padding-bottom: 20px;
+    color: aliceblue;
+}
+
+.mue{
+
+
+
+    width: 100%;
+    height: 300px;
+    background-color: rgb(14, 13, 13);
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    color: aliceblue;
+
+
+
+}
+
+
+.mue i{
+
+padding-top: 30px;
+color: rgb(255, 6, 6);
+
+}
+
+.mue span{
+color: orange;
+
+
+}
+
+.mue p{
+
+color: rgb(255, 227, 174)
+
+
+
+
+
+}
+
+
+.km{
+
+    width: 100%;
+    height: 1200px;
+    background-color: rgb(192, 192, 192);
+    color: rgb(3, 3, 3);
+padding-top: 40px;
+
+}
+
+.km img{
+/* margin-right: 700px; */
+margin-left: 0;
+margin-top: 20px;
+border-radius: 20px;
+margin-right: 10px;
+}
+.oooo04{
+
+
+    font-size: 35px;
+    color: blueviolet;
+
+
+
+}
+
+.rat{
+
+
+    width: 100%;
+    height: 700px;
+    background-color: rgb(0, 0, 0);
+
+padding-top: 40px;
+
+
+
+
+
+}
+
+.rat i{
+
+    color: rgb(255, 255, 255);
+}
+
+.rat p{
+
+color: aqua;
+
+
+}
+
+
+
+
+.t0{
+
+
+    width: 100%;
+    height: 250px;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 40px;
+
+
+
+
+}
+
+
+
+.t65 p{
+
+color: orange;
+
+}
+
+.t67 p{
+
+
+color: palevioletred;
+
+
+
+
+}
+
+.t60 p{
+
+color: rgb(251, 255, 0);
+
+
+}
+
+
+
+.t68 p{
+
+
+color: red;
+
+
+}
+
+
+.t0 div{
+
+
+width:300px ;
+height:200px ;
+
+
+}
+
+
+
+
+.justuo{
+
+
+
+    width: 100%;
+    height: 900px;
+    margin-top:2650px ;
+  text-align: center;
+
+}
+
+.mome{
+
+display: flex;
+margin: auto;
+justify-content: space-evenly;
+margin-top: 40px;
+
+
+
+}
+
+.mome div{
+width: 350px;
+
+
+}
+
+.yi{
+width:400px ;
+height: 500px;
+background-color:#a2c0be;
+}
+.yi input{
+
+border: none;
+border-radius: 10px;
+  width: 300px;  
+  height: 30px ;
+}
+
+.image:hover{
+
+cursor: zoom-out;
+transform: scale(1.2);
+
+
+
+
+
+
+}
+.yi a{
+
+border: none;
+text-decoration: none ;
+color: aliceblue;
+}
+.yi button{
+
+background-color: black;
+border-radius: 10px;
+  width: 300px;  
+  height: 40px ;
+}
+
+
+.hil{
+
+justify-content: center;
+display: flex;
+text-align: center;
+}
+
+
+.er{
+background-color: #6d767e;
+width:400px ;
+height: 400px;
+padding-top: 100px;
+}
+.er p{
+
+
+
+margin-right: 50px;
+
+
+
+}
+
+.er h2{
+
+
+    margin-right: 50px;
+
+
+}
+
+.lo{
+
+
+    margin-right: 50px;
+    font-size: 20px;
+
+    
+}
+
+.po{
+
+
+
+    margin-right: 50px;
+
+    font-size: 20px;
+
+
+}
+
+.ho{
+
+    margin-right: 50px;
+font-size: 20px;
+
+
+
+
+
+
+}
+
+
+.ui button:hover{
+background-color: rgb(252, 27, 252);
+}
+
+
+.ui button{
+
+border-radius: 20px;
+border:dotted;
+
+
+}
+
+
+
+
+.ui img:hover{
+
+box-shadow: 11px 11px rgb(241, 9, 191);
+transition: 1s;
+
+
+}
+
+.rat img:hover{
+
+    box-shadow: 11px 11px red;
+    transition: 1s;
+
+}
+
+.um img:hover{
+
+    box-shadow: 20px 20px white;
+    transition: 1s;
+
+}
+
+.opes{
+    width:100% ;
+background-color: black;
+    height: 150px
+   
+   }
+
+   .opes p{
+
+color: rgba(255, 255, 255, 0.678);
+text-align: center;
+padding-top: 80px ;
+   }
+  .opes hr{
+
+margin-top: 20px;
+
+
+  }
